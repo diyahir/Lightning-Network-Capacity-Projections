@@ -14,7 +14,7 @@ This Streamlit dashboard provides insights into the implications of Bitcoin Ligh
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/bitcoin-lightning-dashboard.git
+    git clone https://github.com/diyahir/Lightning-Network-Capacity-Projections.git
     ```
 
 2. Install the required dependencies:
